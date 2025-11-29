@@ -1,0 +1,5 @@
+{
+  "name": "KinemaLearn: Mobility Analysis",
+  "description": "An interactive educational tool for analyzing planar linkage mobility. Generate mechanisms, calculate degrees of freedom, and visualize motion using Gruebler's criterion.",
+  "requestFramePermissions": []
+}
